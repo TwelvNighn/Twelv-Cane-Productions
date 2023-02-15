@@ -1,0 +1,63 @@
+.mstheme
+{
+}
+.mstheme-bannertxt
+{
+	color: rgb(204, 255, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	color: rgb(255, 255, 153);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	color: rgb(102, 204, 255);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	color: rgb(255, 255, 153);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+}
+ul ul
+{
+}
+ul ul ul
+{
+}
